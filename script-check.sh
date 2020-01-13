@@ -3,4 +3,4 @@ echo "this is a small script to check the github webhook triggered jenkins proje
 echo "This is s acript named $SCRIPTNAME
 NUMBER=$(( $FIRSTNUMBER + $SECONDNUMBER))
 echo "$NUMBER"
-echo "with this scrpt is completed"
+echo " with this scrpt is completed "
